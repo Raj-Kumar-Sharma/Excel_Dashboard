@@ -1,9 +1,14 @@
 # Excel_Dashboard
-Prince-Sales-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
-Project Objective
+
+Prince-Sales-Store-Data-Analysis (Interactive Dashboard creation using MS Excel).
+
+Project Objective:
+
 The Prince Sales Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 
 Questions (KPIs):
+
+
 1.Compare the sales and orders using single chart.
 
 2.Which month got the highest sales and orders?
@@ -23,12 +28,14 @@ Questions (KPIs):
 9.Percentage of Total Orders delivered
 
 Process:
+
 Verify data for any missing values and anomalies, and sort out the same.
 Made sure data is consistent and clean with respect to data type, data format and values used.
 Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 Project Insight:
+
 1.Women customers are more likely to buy products compared to men (~65%).
 2.The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
 3.The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
@@ -37,6 +44,7 @@ Project Insight:
 
 
 Final Conclusion:
+
 To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
 
